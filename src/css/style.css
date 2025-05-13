@@ -1,0 +1,28 @@
+body{
+  background-color: antiquewhite;
+}
+.content{
+  display: flex;
+  justify-content: space-between;
+}
+
+#tp{
+ color: aqua;
+}
+#ts{
+  color: rgb(48, 35, 17);
+}
+#tc{
+   color: rgb(47, 44, 213);
+}
+
+
+
+#title_main{
+  text-align: center;
+}
+
+.parrafo{
+  background-color: rgb(74, 85, 85);
+  color:rgb(18, 232, 36)
+}
